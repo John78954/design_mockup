@@ -1,0 +1,250 @@
+header{
+  background-color: gray;
+}
+.share{
+  text-align: right;
+    text-decoration: none;
+    color: white;
+}
+
+header img{
+  width: 50px;
+  height: 40px;
+}
+
+.M{
+  position: absolute;
+  text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  right: 47%;
+}
+
+.free{
+  position: absolute;
+  text-decoration: none;
+  color: white;
+  list-style-type: none;
+  text-align: left;
+}
+
+.facebook{
+  text-align: right;
+  list-style-type: none;
+}
+
+.twitter{
+  text-align: right;
+  list-style-type: none;
+}
+
+.hand{
+  background-color: #D3D7DA;
+  width: 102.9em;
+  height: 72em;
+  text-align: right;
+  list-style-type: none;
+}
+
+.info{
+  position: absolute;
+  top: 30em;
+  text-align: left;
+  list-style-type: none;
+  color: white;
+}
+
+.border{
+  position: absolute;
+  background-color: green;
+  border-style: solid;
+  border-color: green;
+  border-radius: 10%;
+  width: 20%;
+    color: white;
+    padding: 0px 0px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    top: 40em;
+}
+
+.crossed{
+  text-decoration: line-through;
+}
+
+.mock_ups{
+  position: absolute;
+  text-align: right;
+  top: 1em;
+  right: 5em;
+}
+
+/*.six{
+  width: 100px;
+  height: 50%;
+  float: left;
+  border: none;
+}
+
+.five{
+  width: 100px;
+  height: 50%;
+  border: none;
+  margin: auto;
+}
+
+*/
+
+.five{
+  text-align: center;
+}
+
+/*.first{
+  width: 10em;
+  height: 10em;
+}
+
+.second{
+  width: 10em;
+  height: 10em;
+}
+
+.third{
+  width: 10em;
+  height: 10em;
+}*/
+
+.text{
+  text-align: center;
+}
+
+.ball{
+  position: absolute;
+  text-align: center;
+  border-style: solid;
+  border-radius: 10%;
+  width: 20%;
+  right: 40%;
+}
+
+.pink{
+text-align: center;
+margin-right: 15%;
+margin-top: 1.5%;
+}
+
+.full_image{
+  position:absolute;
+  top: 110em;
+}
+
+.full_image img{
+  width: 102.9em;
+}
+
+.black_box{
+  position: absolute;
+  background-color: #303030;
+  text-align: center;
+  margin-top: 37%;
+  color: white;
+  width: 102.9em;
+  height: 50%;
+}
+
+.email_box{
+  position: absolute;
+  background-color: darkgray;
+  border-color: gray;
+  border-radius: 10%;
+  width: 20%;
+  margin-top: 1%;
+  margin-left: 40%;
+}
+
+.green_box{
+  position:absolute;
+  background-color: green;
+  border-radius: 10%;
+  width: 20%;
+  margin-top: 1%;
+  margin-left: 120%;
+  top: 0%;
+}
+
+.second_box{
+  position: absolute;
+  background-color: #303030;
+  margin-top: 63%;
+  text-align: left;
+  color: white;
+  width: 102.9rem;
+}
+
+.three_people{
+  text-align: right;
+  margin-top: 10%;
+}
+
+.three_people img{
+  position: absolute;
+  width: 45%;
+  height: 50%;
+  top: 20%;
+  left: 54%;
+
+}
+
+.tomas{
+position: absolute;
+right: 38%;
+color: white;
+top: 70%;
+}
+
+.david{
+  position: absolute;
+  right: 23%;
+  color: white;
+  top: 70%;
+}
+
+.mark{
+  position: absolute;
+  right: 6%;
+  color: white;
+  top: 70%;
+}
+
+.last_box{
+  position:absolute;
+  background-color: #303030;
+  margin-top: 87.1%;
+  color: gray;
+  width: 102.9rem
+}
+.c{
+  color: gray;
+}
+
+.done{
+  position: absolute;
+  right: 20%;
+  top: 10%;
+}
+
+.really{
+  position:absolute;
+  right: 10%;
+  top: 10%;
+}
+
+.seriously{
+position: absolute;
+right: 4%;
+top: 10%;
+}
